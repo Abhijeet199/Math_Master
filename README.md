@@ -1,2 +1,2 @@
 # Math_Master
-This is console based game application
+A console based game application
